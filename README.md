@@ -36,3 +36,82 @@ A sophisticated Minecraft plugin designed to solve privilege storage and managem
 - `%privilege_highest%` - Shows player's highest privilege
 - `%privilege_<privilege>%` - Shows amount of specific privilege
   *Example: `%privilege_vip%` shows VIP privilege count*
+
+###📋 Requirements
+####🔧 Required Plugins
+LuckPerms
+PlaceholderAPI
+
+####🗄️ Database
+MySQL 5.7+
+
+####🎮 Minecraft Versions
+Primary Support: 1.21 - 1.21.8
+
+Planned Support: 1.12.2 - 1.21.8 (Coming Soon!)
+
+###🚀 Installation
+Download the latest version from Releases
+
+Place the JAR file in your plugins/ folder
+
+Restart your server
+
+Configure the config.yml with your database settings
+
+Reload with /priv reload or restart server
+
+###📦 Database Setup
+
+``` sql
+CREATE DATABASE minecraft;
+CREATE USER 'minecraft'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON minecraft.* TO 'minecraft'@'localhost';
+FLUSH PRIVILEGES;
+```
+
+###📊 Support
+####❓ Need Help?
+Discord: borichdev (Direct message)
+
+GitHub Issues: Create Issue
+
+Wiki: Documentation
+
+####🐛 Reporting Bugs
+Please include:
+
+Minecraft version
+
+Plugin version
+
+Error logs
+
+Steps to reproduce
+
+###🌟 Contributing
+We welcome contributions! Feel free to:
+
+####🐛 Report bugs
+
+####💡 Suggest features
+
+####🔧 Submit pull requests
+
+####📖 Improve documentation
+
+###📄 License
+See the LICENSE file for details.
+
+###🙏 Acknowledgments
+LuckPerms Team - For excellent permissions system
+
+PlaceholderAPI Team - For robust placeholder system
+
+MySQL - For reliable database storage
+
+All Contributors - Thank you for your support!
+
+
+
+From borich with luv ❤️
