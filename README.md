@@ -1,7 +1,7 @@
 # PrivilegeStorage 🗃️
 
 [![GitHub release](https://img.shields.io/github/v/release/borichdev/PrivilegeStorage?style=for-the-badge)](https://github.com/borichdev/PrivilegeStorage/releases)
-[![Discord](https://img.shields.io/discord/your-server-id?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/privilegestorage)
+[![Discord](https://img.shields.io/discord/your-server-id?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/PWp3Et5U)
 [![MySQL](https://img.shields.io/badge/MySQL-Supported-orange?style=for-the-badge&logo=mysql)](https://mysql.com)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21-green?style=for-the-badge&logo=minecraft)](https://minecraft.net)
 
