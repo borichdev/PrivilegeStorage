@@ -1,0 +1,13 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+
+out/
+build/
+*.class
+
+.env
+*.properties
+
+*.log
