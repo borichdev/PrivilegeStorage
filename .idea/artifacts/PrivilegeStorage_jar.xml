@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrivilegeStorage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrivilegeStorage_jar</output-path>
+    <root id="archive" name="PrivilegeStorage.jar">
+      <element id="module-output" name="PrivilegeStorage.main" />
+    </root>
+  </artifact>
+</component>
