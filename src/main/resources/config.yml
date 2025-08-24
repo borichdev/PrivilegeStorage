@@ -2,7 +2,7 @@
 
 server: global # For server networks
 
-database: # MySQL
+database: # MySQL settings
 
   host: localhost
   port: 3306
